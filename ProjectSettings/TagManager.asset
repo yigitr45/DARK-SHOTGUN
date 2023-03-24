@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zemin
+  - Chest
+  - "D\xFC\u015Fman"
+  - Mermi
+  - Stop
+  - Boundary
+  - Jeton
+  - Throw
+  - Button
+  - Duvar
+  - Nesne
+  - Potion
+  - Breakable
+  - Bearded
+  - Damaged
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Zemin
+  - Water
+  - UI
+  - Karakter
+  - Arkaplan
+  - "D\xFC\u015Fman"
+  - NoContact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 693970507
+    locked: 0
+  - name: Mermi
+    uniqueID: 1883519927
+    locked: 0
+  - name: Binalar
+    uniqueID: 3211666143
+    locked: 0
+  - name: Zemin
+    uniqueID: 381934087
+    locked: 0
+  - name: Nesne
+    uniqueID: 1783020419
+    locked: 0
+  - name: Mermi izi
+    uniqueID: 3616282905
+    locked: 0
+  - name: Portal
+    uniqueID: 2929591013
+    locked: 0
+  - name: Karakter
+    uniqueID: 4018085259
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 1194385351
+    locked: 0
+  - name: UI
+    uniqueID: 1135066001
+    locked: 0
